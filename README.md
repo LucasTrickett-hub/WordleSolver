@@ -1,0 +1,2 @@
+# WordleSolver
+Optimal Wordle Project 
